@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Wedding Photography | Professional Wedding Photographer India",
-  description: "Capture your love story with premium wedding photography services. Professional photographer specializing in candid moments, emotions, and lasting memories.",
+  title: "Professional Services | India & Australia",
+  description: "Premium professional services delivered with excellence.",
 };
 
 export default function RootLayout({
